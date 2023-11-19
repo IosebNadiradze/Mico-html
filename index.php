@@ -36,8 +36,6 @@
   <?php require "slider.php"; ?>
   <?php require "testimonial.php"; ?>
   <?php require "navigation.php"; ?> 
-  <?php require "welcome.php"; ?>
-  <?php require "getintouch.php"; ?>
 </head>
 
 <body>
